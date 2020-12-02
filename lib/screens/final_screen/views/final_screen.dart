@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_colors_catalog/screens/final_screen/models/final_sceen_arguments.dart';
 
 class FinalScreen extends StatelessWidget {
   FinalScreen({
